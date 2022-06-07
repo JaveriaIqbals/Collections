@@ -82,13 +82,13 @@ namespace Collections
             StoreData(personList);
 
         }
-        public static void Main(string [] args)
+        /*public static void Main(string [] args)
         {
             // ssn, name, age
             // 1001, abc, 20
 
             ReadWrite();
 
-        }
+        }*/
     }
 }
